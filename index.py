@@ -25,9 +25,6 @@ class Client:
         self.wind = window
         self.wind.title("LOS INFORMATICOS SAC")
         
-        # Ubicación de mi icono
-        # self.wind.iconbitmap("D:\\Programacion\\Python\\TKinter\\SenatiProject\\Trabajo-Final-Python\\tornillofelizlogo.ico")
-
         # Creamos el titulo
         self.frame = LabelFrame(self.wind)
         self.frame.grid(row = 0, column = 0)
