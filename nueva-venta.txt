@@ -1,0 +1,36 @@
+   EL TORNILLO FELIZ
+
+    RUC : 00000000000
+        Juliaca
+
+Av. Tangamandapio Nro 123
+CEL : 910594824
+---------------------------------    
+BOLETA DE VENTA ELECTRÓNICA
+            BB00-00
+Fecha de emision: 30/06/2021
+--------------------------------
+	DATOS DEL CLIENTE
+
+DNI        : 45454545
+NOMBRE     : El Chapulin
+APELLIDOS  : Colorado
+DIRECCIÓN  : Fuera de la vecindad
+CIUDAD     : Mexico
+TELEFONO   : 920563634
+---------------------------------
+	 DESCRIPCIÓN
+
+Aguas frescas
+			S./ 2.0
+Cepillo metalico
+			S./ 29.0
+Cutter
+			S./ 19.0
+Delivery
+			S./ 4.99
+---------------------------------
+TOTAL			S./54.99
+---------------------------------
+	30/06/2021 08:25:24
+    
