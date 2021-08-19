@@ -1,4 +1,4 @@
-   EL TORNILLO FELIZ
+   LOS INFORMATICOS SAC
 
     RUC : 00000000000
         Juliaca
@@ -8,29 +8,27 @@ CEL : 910594824
 ---------------------------------    
 BOLETA DE VENTA ELECTRÓNICA
             BB00-00
-Fecha de emision: 30/06/2021
+Fecha de emision: 18/08/2021
 --------------------------------
 	DATOS DEL CLIENTE
 
-DNI        : 45454545
-NOMBRE     : El Chapulin
-APELLIDOS  : Colorado
-DIRECCIÓN  : Fuera de la vecindad
-CIUDAD     : Mexico
-TELEFONO   : 920563634
+DNI        : 98989898
+NOMBRE     : Juanito
+APELLIDOS  : Alcachofa
+DIRECCIÓN  : Jr. San Martin
+CIUDAD     : Juliaca
+TELEFONO   : 910594824
 ---------------------------------
 	 DESCRIPCIÓN
 
-Aguas frescas
-			S./ 2.0
-Cepillo metalico
-			S./ 29.0
-Cutter
+Monitor 25"
+			S./ 599.0
+Mouse
 			S./ 19.0
 Delivery
 			S./ 4.99
 ---------------------------------
-TOTAL			S./54.99
+TOTAL			S./622.99
 ---------------------------------
-	30/06/2021 08:25:24
+	18/08/2021 23:17:26
     

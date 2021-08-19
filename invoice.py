@@ -5,7 +5,7 @@ class Invoice:
     # Guardamos el metodo datetime en la variable get_date
     get_date = datetime.datetime.now()
     # Creamos el formato imprimible
-    invoice_txt = f'''   EL TORNILLO FELIZ
+    invoice_txt = f'''   LOS INFORMATICOS SAC
 
     RUC : 00000000000
         Juliaca

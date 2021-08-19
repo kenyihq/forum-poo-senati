@@ -457,7 +457,7 @@ class Client:
     def send_whatasapp(self):
         
         name = f"*{self.name.get()} {self.last_name.get()}*"
-        great = f"Hola {name}, gracias por comprar en *El Tornillo Feliz*\n"
+        great = f"Hola {name}, gracias por comprar en *LOS INFORATICOS SAC*\n"
         number = f"+51{self.phone.get()}"
         address = f"*{self.addres.get()}*\n"
         gratitude = self.invoice.whatsapp
