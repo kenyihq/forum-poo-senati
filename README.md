@@ -1,8 +1,19 @@
-# senati-final-project-python
-Planteamiento del Proyecto
-Debido a la Pandemia la Ferretería “El Tornillo Feliz” desea implementar un sistema
-de registros de pedidos por teléfono, para lo cual necesitar registrar el DNI, nombres
-y apellidos, la dirección, teléfono y el pedido que se realiza. Al solo contar con una
-computadora y escasos recursos, decide utilizar Python.
-Este sistema debe permitir no solo registrar estos datos, si no también imprimirlos
-para que el repartidor los lleve sin problema.
+Estimado estudiante.
+
+Responda las siguientes preguntas:
+
+Tema: Implementa registro de pedidos en línea para el negocio
+
+La Empresa Los Informáticos SAC requiere de una aplicación con seguridad especial por el servicio de ofrecer información necesaria a los usuarios que requieran realizar las consultas solicitadas.
+
+Se debe de considerar:
+
+• Instalar Python utilizando el framework DJANGO.
+
+• Se establece una aplicación utilizando Tkinter, sin obviar que este grabado en la carpeta raíz.
+
+• Establecer el nombre del control, que realmente con el Lenguaje Python e identificar el ciclo de vida y validadores.
+
+• Se establece los parámetros, funciones y clases para importar las librerías correspondientes para el uso de los mismos.
+
+• Se establecerá en la misma aplicación el procedimiento para las pruebas correspondientes utilizando POO. 
